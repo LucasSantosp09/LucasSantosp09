@@ -4,15 +4,15 @@ Tecnologias:
 
 Back-End:
 Java com Spring Boot
-Front-End:
+| Front-End:
 HTML
 CSS
 JavaScript
 Bootstrap
 React JS
-Banco de Dados:
+| Banco de Dados:
 MySQL
 PostgreSQL
 SQL Server
-Versionamento:
+| Versionamento:
 Git e GitHub
